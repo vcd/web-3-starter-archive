@@ -10,7 +10,4 @@
 // Third, load any plugins (optional)
 // @codekit-prepend "plugins.js";
 
-// Add to Home Screen
-addToHomescreen();
-
 // My Scripts
